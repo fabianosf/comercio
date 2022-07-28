@@ -18,7 +18,7 @@
 - [x] CSS
 - [x] Javascript
 
-## Arquivos padrões
+## Projeto
 `manage.py`
 
 É um utilitário de linha de comando que permite interagir com o projeto e app django de várias maneiras.
