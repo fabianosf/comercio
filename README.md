@@ -1,9 +1,9 @@
-# Projeto Comercio Eletrônico
+# Projeto Comercio Eletrônico: 
  
  ![](https://i.imgur.com/RYAUU8q.png)
 
  
-## Links 
+## Links: 
 *  
 * [Django](https://www.djangoproject.com/) - Django Web Framework versão 4.0.6
 * [Python](https://www.python.org/) - Python versão 3.8.10
@@ -22,7 +22,7 @@
 ## Pacotes
 
 
-Arquivos padrões
+## Arquivos padrões
 `manage.py`
 
 É um utilitário de linha de comando que permite interagir com o projeto e app django de várias maneiras.
@@ -46,7 +46,7 @@ Arquivo onde declara as urls e rotas dos apps que estão relacionados ao respect
 Ponto de integração entre servidores web compatíveis com ASGI e a aplicação python.
 `wsgi.py`
 
-# Aplicação
+## Aplicação
 
 O app é uma aplicação que realiza uma determinada função, que nesse caso são: 
 
@@ -70,7 +70,7 @@ As migrations estão relacionadas aos banco de dados, é a maneira do django de 
 `models.py` 
 
  
-## Configuraçes para rodar a aplicação
+## Configuraçes para rodar a aplicação: 
 
 instalar o python
 instalar o pip(gerenciador de pacotes)
@@ -80,7 +80,7 @@ python3 -m venv nome_do_ambiente_virtual
 source nome_do_ambiente_virtual/bin/activate(linux)
 nome_do_ambiente_virtual\Scripts\Activate(windows)
 
-# Após os passos acima: 
+## Após os passos acima: 
 Entrar no diretório do ambiente_virtual
 e fazer python manage.runserver ou ./manage.py runserver 
 
