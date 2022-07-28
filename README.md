@@ -3,7 +3,7 @@
  ![](https://i.imgur.com/RYAUU8q.png)
 
  
-## Links: 
+## Links de consulta: 
 *  
 * [Django](https://www.djangoproject.com/) - Django Web Framework versão 4.0.6
 * [Python](https://www.python.org/) - Python versão 3.8.10
@@ -17,10 +17,6 @@
 - [x] Html
 - [x] CSS
 - [x] Javascript
-
-
-## Pacotes
-
 
 ## Arquivos padrões
 `manage.py`
@@ -70,7 +66,7 @@ As migrations estão relacionadas aos banco de dados, é a maneira do django de 
 `models.py` 
 
  
-## Configuraçes para rodar a aplicação: 
+## Configuraçoes para rodar a aplicação: 
 
 instalar o python
 instalar o pip(gerenciador de pacotes)
