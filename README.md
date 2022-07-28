@@ -1,10 +1,10 @@
-# Projeto Comercio Eletrônico: 
+# Projeto Comércio Eletrônico: 
  
  ![](https://i.imgur.com/RYAUU8q.png)
 
  
 ## Links de consulta: 
-*  
+
 * [Django](https://www.djangoproject.com/) - Django Web Framework versão 4.0.6
 * [Python](https://www.python.org/) - Python versão 3.8.10
 * [SQLite](https://www.sqlite.org/index.html) - banco de dados SQL embutido 3.3.3
